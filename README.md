@@ -2,6 +2,7 @@
 ## Hi there 👋 -->
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=FazTuDev&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazTuDev&layout=compact)
 
 
