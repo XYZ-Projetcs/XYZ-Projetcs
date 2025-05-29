@@ -1,22 +1,35 @@
+# 👋 Olá, sou o FazTuDev!
+ 
+Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **código limpo**, tudo partilhado para ajudar quem está a aprender ou quer acelerar os seus próprios projetos.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=FazTuDev&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FazTuDev&layout=compact&theme=tokyonight)
+
+---
+
+## 👁️ Visualizações do Perfil
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=FazTuDev&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6)
+
+---
 <!--
-## Hi there 👋 -->
+## 📱 Onde mais me podes encontrar
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=FazTuDev&show_icons=true&theme=tokyonight)
+- 📸 Instagram → [@faztudev](https://instagram.com/faztudev)
+- 🌐 Portfólio (em breve)  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazTuDev&layout=compact)
+---
 
+## 💬 Citação pessoal
 
-<!--
-**FazTuDev/FazTuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Partilhar código é partilhar conhecimento. Mesmo um projeto simples pode ajudar alguém a dar o próximo passo."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado por visitares o meu perfil! 🙌  
+Se gostares de algum projeto, ⭐ marca-o como favorito ou faz um fork!
