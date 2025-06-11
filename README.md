@@ -18,12 +18,6 @@ Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **códi
 
 ---
 
-## 📱 Onde mais me podes encontrar
-
-- 📸 Instagram → [@faztudev](https://www.instagram.com/faztudev)
-
----
-
 ## 💬 Citação pessoal
 
 > "Partilhar código é partilhar conhecimento. Mesmo um projeto simples pode ajudar alguém a dar o próximo passo."
