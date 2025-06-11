@@ -1,4 +1,4 @@
-# 👋 Olá, sou o FazTuDev!
+# 👋 Olá, sou o XYZProjects!
  
 Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **código limpo**, tudo partilhado para ajudar quem está a aprender ou quer acelerar os seus próprios projetos.
 
