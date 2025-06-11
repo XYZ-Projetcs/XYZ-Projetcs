@@ -26,3 +26,5 @@ Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **códi
 
 Obrigado por visitares o meu perfil! 🙌  
 Se gostares de algum projeto, ⭐ marca-o como favorito ou faz um fork!
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/default-yellow.png)](https://buymeacoffee.com/XYZProjects)
