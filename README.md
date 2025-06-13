@@ -6,10 +6,6 @@ Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **códi
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=XYZ-Projetcs&show_icons=true&theme=tokyonight&hide_title=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XYZ-Projetcs)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FazTuDev&layout=compact&theme=tokyonight)
 
 ---
