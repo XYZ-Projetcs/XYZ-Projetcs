@@ -6,7 +6,7 @@ Neste perfil vais encontrar **exemplos práticos**, **dicas rápidas** e **códi
 
 ## 📊 Estatísticas do GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FazTuDev&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-Projetcs&layout=compact&theme=tokyonight)
 
 ---
 
